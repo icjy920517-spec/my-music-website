@@ -1,15 +1,25 @@
 body {
   background-color: #fff0f5;
-  font-family: Arial, sans-serif;
+  font-family: Georgia, serif;
   text-align: center;
-  padding: 50px;
+  padding: 50px 20px;
+  color: #70465a;
 }
 
 h1 {
   color: #d63384;
+  font-size: 38px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #a64d79;
+  font-size: 25px;
+  margin-top: 40px;
 }
 
 p {
-  color: #555555;
+  color: #70465a;
   font-size: 18px;
+  line-height: 1.8;
 }

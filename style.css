@@ -23,3 +23,28 @@ p {
   font-size: 18px;
   line-height: 1.8;
 }
+.music-category {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.category {
+  background-color: #ffffff;
+  border: 1px solid #f2c6d8;
+  border-radius: 18px;
+  padding: 25px;
+  width: 220px;
+  box-shadow: 0 4px 12px rgba(214, 51, 132, 0.12);
+}
+
+.category h3 {
+  color: #d63384;
+  font-size: 20px;
+}
+
+.category p {
+  font-size: 15px;
+}o

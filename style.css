@@ -58,3 +58,22 @@ p {
   border-radius: 15px;
   margin-top: 15px;
 }
+.song-info {
+  background-color: #ffffff;
+  border: 1px solid #f2c6d8;
+  border-radius: 20px;
+  padding: 25px;
+  max-width: 500px;
+  margin: 40px auto;
+  box-shadow: 0 4px 15px rgba(214, 51, 132, 0.12);
+}
+
+.song-info h2 {
+  color: #d63384;
+  margin-top: 5px;
+}
+
+.song-info h3 {
+  color: #a64d79;
+  font-size: 24px;
+}

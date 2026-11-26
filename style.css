@@ -77,3 +77,22 @@ p {
   color: #a64d79;
   font-size: 24px;
 }
+.music-player {
+  background-color: #fce4ec;
+  border: 1px solid #f2c6d8;
+  border-radius: 20px;
+  padding: 25px;
+  max-width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.music-player h3 {
+  color: #d63384;
+  margin-bottom: 20px;
+}
+
+.music-player audio {
+  width: 100%;
+  max-width: 400px;
+}
